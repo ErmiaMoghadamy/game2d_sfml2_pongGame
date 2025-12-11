@@ -5,12 +5,12 @@
 ## Before PR:
 Reach me at `ermia.dev.official@gmail.com`
 
-## What is appriciated:
+## What is appreciated:
 - atomic commits
 - logical bug fix
 - best practices suggestion
 - fun or useful ideas
 
-## What is mot appriciated:
+## What is mot appreciated:
 - non-atomic commit
 - alternative solution (you may add a new branch)
