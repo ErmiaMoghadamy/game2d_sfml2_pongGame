@@ -35,7 +35,26 @@ int main() {
         }
 
 
-
+        // TODO: Implement 'Rocket Movement'
+        // float dx = 0.f;
+        // float dy = 0.f;
+        //
+        // if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left) ||
+        //     sf::Keyboard::isKeyPressed(sf::Keyboard::A)) {
+        //     dx -= game_state.speed * dt;
+        //     }
+        // if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right) ||
+        //     sf::Keyboard::isKeyPressed(sf::Keyboard::D)) {
+        //     dx += game_state.speed * dt;
+        //     }
+        // if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up) ||
+        //     sf::Keyboard::isKeyPressed(sf::Keyboard::W)) {
+        //     dy -= game_state.speed * dt;
+        //     }
+        // if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down) ||
+        //     sf::Keyboard::isKeyPressed(sf::Keyboard::S)) {
+        //     dy += game_state.speed * dt;
+        //     }
 
         sf::Vector2u window_size = window.getSize();
         int radius = shape.getRadius();
